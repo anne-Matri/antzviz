@@ -1,2 +1,2 @@
 # antzviz
-Files for making visualizations with OpenANTz
+## Files for making visualizations with OpenANTz
