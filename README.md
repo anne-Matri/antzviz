@@ -16,3 +16,7 @@ The files in this repository will help users recreate the node csv files, along 
   - The underlying data is not shared for most of these designs, but users can easily read in their own data and use these files to make designs with their own data.
   - The exception to shared data is public, anonymized Oura ring data from the TempPredict Study.
    - A preprint of the research paper, along with the data, can be found [**here**](https://www.researchsquare.com/article/rs-43914/v1)
+
+
+Additional information can be found at [**www.matridesign.com**](https://www.matridesign.com)
+For questions, see contact information 
