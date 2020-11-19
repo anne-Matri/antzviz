@@ -8,7 +8,7 @@ In order to view data in OpenANTz, raw data is converted into attributes of 3D m
 
 The files in this repository will help users recreate the node csv files, along with labeling files like a tag csv file format.
 
-###Directories
+### Directories
 - **Covid Visualizations**: The designs show data from CMU's CovidCast API along with policy information gathered by Oxford's Blavatnik School of Government. 
   - Most visualizations in this repository are shown per month, with child nodes - a toroid and set of rods - that shows data per day. Those nodes change in size relative to changes in the underlying raw data.
   
